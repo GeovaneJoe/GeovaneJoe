@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/darrow12/darrow12/blob/main/images/undraw_programming_2svr.svg" width="410"/>
 
 <h1 align="center">Olá, eu sou Geovane Martins, mais conhecido como Joe 👋🎃</h1>
-Sou apenas um  técnico em informática buscando conhecimento no mundo da programação.
+Sou apenas um  técnico em informática mergulhando no mundo da programação.
 <br />
 <br />
 <br />
