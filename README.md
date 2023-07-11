@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/GeovaneJoe/GeovaneJoe/blob/main/.github/workflows/giphy%20(1).gif" width="400"/>
+<img align="right" src="https://github.com/GeovaneJoe/GeovaneJoe/blob/main/.github/workflows/giphy%20(1).gif" width="300"/>
 
 <h1 align="center">Olá, eu sou Geovane Martins, mais conhecido como Joe 👋🎃</h1>
 Sou apenas um  técnico em informática mergulhando no mundo da programação.
