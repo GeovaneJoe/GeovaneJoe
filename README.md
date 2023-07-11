@@ -1,14 +1,14 @@
 <img align="right" src="https://github.com/GeovaneJoe/GeovaneJoe/blob/main/.github/workflows/giphy%20(1).gif" width="300"/>
 
 <h1 align="center">Olá, eu sou Geovane Martins, mais conhecido como Joe 👋🎃</h1>
-Sou apenas um  técnico em informática mergulhando no mundo da programação.
+Mamífero noturno de olhos vermelhos.
+Capaz de conversar com objetos inanimados e aprendendo a converter café em código.
+Um  técnico em informática mergulhando no mundo da programação.
 <br />
 <br />
 <br />
 
 ## 🪐 Algumas curiosidades sobre mim
-- Mamífero noturno de olhos vermelhos.
-- Capaz de conversar com objetos inanimados e aprendendo a converter café em código.
 - 🔭 Atualmente estou trabalhando na <a href="http://www.tradeautomacao.com.br" target="_blank">Trade Automação Comercial</a>;
 - 🌱 Aprendendo um pouco sobre Algoritimos I: Selection, Insertion
 - 🖥  Apaixonado por Informática
