@@ -47,5 +47,9 @@ Sou apenas um  técnico em informática buscando conhecimento no mundo da progra
 <a href="https://www.youtube.com/channel/UC0_FEGcvDqsfNWHDI3S9GVA">
   <img align="left" alt="Geovane YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/748FAC" title="Canal no YouTube" />
  
-</a>
- ![Snake animation](https://github.com/GeovaneJoe/GeovaneJoe/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/GeovaneJoe/GeovaneJoe/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GeovaneJoerepo=GeovaneJoe&theme=react)](https://github.com/GeovaneJoe/GeovaneJoe)
