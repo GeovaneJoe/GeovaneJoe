@@ -46,7 +46,8 @@ Sou apenas um  técnico em informática buscando conhecimento no mundo da progra
 </a>
 <a href="https://www.youtube.com/channel/UC0_FEGcvDqsfNWHDI3S9GVA">
   <img align="left" alt="Geovane YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/748FAC" title="Canal no YouTube" />
- 
+ </details>    
+----
   
   ![Snake animation](https://github.com/GeovaneJoe/GeovaneJoe/blob/output/github-contribution-grid-snake.svg)
  
