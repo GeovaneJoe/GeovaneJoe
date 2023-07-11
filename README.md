@@ -51,5 +51,3 @@ Sou apenas um  técnico em informática buscando conhecimento no mundo da progra
   ![Snake animation](https://github.com/GeovaneJoe/GeovaneJoe/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GeovaneJoerepo=GeovaneJoe&theme=react)](https://github.com/GeovaneJoe/GeovaneJoe)
