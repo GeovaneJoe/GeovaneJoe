@@ -6,10 +6,10 @@ Capaz de conversar com objetos inanimados e aprendendo a converter café em cód
 Um  técnico em informática mergulhando no mundo da programação.<br />
 <br />
 <br />
-## 🪐 Algumas curiosidades sobre mim
-- 🔭 Atualmente estou trabalhando na <a href="http://www.tradeautomacao.com.br" target="_blank">Trade Automação Comercial</a>;
-- 🌱 Aprendendo um pouco sobre Algoritimos I: Selection, Insertion
-- 🖥  Apaixonado por Informática
+## 🪐 Algumas curiosidades sobre mim <br />
+- 🔭 Atualmente estou trabalhando na <a href="http://www.tradeautomacao.com.br" target="_blank">Trade Automação Comercial</a>;<br />
+- 🌱 Aprendendo um pouco sobre Algoritimos I: Selection, Insertion<br />
+- 🖥  Apaixonado por Informática<br />
 
 
 <br />
