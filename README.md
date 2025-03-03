@@ -20,7 +20,7 @@ Um  técnico em informática mergulhando no mundo da programação.<br />
 <details>
   <summary><b>💻 Tech stack</b></summary>
   
-  ## 🤓 Estudando: 
+  ## 🤓 Cursando: 
   - "Alura" 
   - Java 
   - Python
@@ -28,8 +28,8 @@ Um  técnico em informática mergulhando no mundo da programação.<br />
   "Academia do Codigo"
   - Delphi
 
-"Ciência da Computação"
-3º Período
+ "Ciência da Computação"
+ - 3º Período
 
   ## 🔬 Ferramentas:
   - Git
