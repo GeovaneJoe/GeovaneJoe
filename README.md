@@ -10,7 +10,7 @@ Um  técnico em informática mergulhando no mundo da programação.<br />
 <br />
 
 ## 🪐 Mais coisas sobre mim
-- 🔭 Atualmente estou trabalhando na <a href="http://www.tradeautomacao.com.br" target="_blank">Trade Automação Comercial</a>;
+- 🔭 Atualmente estou trabalhando na <a href="https://www.alterdata.com.br/" target="_blank">Alterdata</a>;
 - 🌱 Aprendendo um pouco sobre Algoritimos I: Selection, Insertion
 - 🖥  Apaixonado por Informática
 
@@ -27,6 +27,9 @@ Um  técnico em informática mergulhando no mundo da programação.<br />
   
   "Academia do Codigo"
   - Delphi
+
+"Ciência da Computação"
+3º Período
 
   ## 🔬 Ferramentas:
   - Git
