@@ -8,6 +8,7 @@ Um  técnico em informática mergulhando no mundo da programação.<br />
 <br />
 <br />
 <br />
+<br />
 
 ## 🪐 Mais coisas sobre mim
 - 🔭 Atualmente estou trabalhando na <a href="https://www.alterdata.com.br/" target="_blank">Alterdata</a>;
