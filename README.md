@@ -45,17 +45,18 @@ Um  técnico em informática mergulhando no mundo da programação.<br />
  
 
 ----
-<a href="https://www.facebook.com/geovane.d.martins">
-  <img align="left" alt="Geovane FaceBook" width="20px" src="https://simpleicons.vercel.app/facebook/748FAC" title="Perfil no FaceBook" />
-</a>
-<a href="https://twitter.com/Geovane_joe?t=Yt1ZaxJqMLZk67adbtW9Hw&s=09">
-  <img align="left" alt="Geovane Twitter" width="20px" src="https://simpleicons.now.sh/twitter/748FAC" title="Perfil no Twitter" />
-</a>
-<a href="https://www.linkedin.com/in/geovane-de-deus-martins-1b223745/">
-  <img align="left" alt="Geovane LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/748FAC" title="Perfil no LinkedIn" />
-</a>
-<a href="https://www.youtube.com/channel/UC0_FEGcvDqsfNWHDI3S9GVA">
-  <img align="left" alt="Geovane YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/748FAC" title="Canal no YouTube" />
- </details>    
- 
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.facebook.com/geovane.d.martins">
+    <img alt="Geovane FaceBook" width="20px" src="https://simpleicons.vercel.app/facebook/748FAC" title="Perfil no FaceBook" />
+  </a>
+  <a href="https://twitter.com/Geovane_joe?t=Yt1ZaxJqMLZk67adbtW9Hw&s=09">
+    <img alt="Geovane Twitter" width="20px" src="https://simpleicons.now.sh/twitter/748FAC" title="Perfil no Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/geovane-de-deus-martins-1b223745/">
+    <img alt="Geovane LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/748FAC" title="Perfil no LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC0_FEGcvDqsfNWHDI3S9GVA">
+    <img alt="Geovane YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/748FAC" title="Canal no YouTube" />
+  </a>
 </div>
+
