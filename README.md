@@ -50,10 +50,10 @@ Um  técnico em informática mergulhando no mundo da programação.<br />
     <img alt="Geovane FaceBook" width="20px" src="https://simpleicons.vercel.app/facebook/748FAC" title="Perfil no FaceBook" />
   </a>
   <a href="https://twitter.com/Geovane_joe?t=Yt1ZaxJqMLZk67adbtW9Hw&s=09">
-    <img alt="Geovane Twitter" width="20px" src="https://simpleicons.now.sh/twitter/#000000" title="Perfil no Twitter" />
+    <img alt="Geovane Twitter" width="20px" src="https://simpleicons.vercel.app/twitter/#000000" title="Perfil no Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/geovane-de-deus-martins-1b223745/">
-    <img alt="Geovane LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/748FAC" title="Perfil no LinkedIn" />
+    <img alt="Geovane LinkedIn" width="20px" src="https://simpleicons.vercel.app/linkedin/748FAC" title="Perfil no LinkedIn" />
   </a>
   <a href="https://www.youtube.com/channel/UC0_FEGcvDqsfNWHDI3S9GVA">
     <img alt="Geovane YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/748FAC" title="Canal no YouTube" />
