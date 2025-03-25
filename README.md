@@ -53,7 +53,7 @@ Um  técnico em informática mergulhando no mundo da programação.<br />
     <img alt="Geovane Twitter" width="20px" src="https://simpleicons.vercel.app/x/000" title="Perfil no Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/geovane-de-deus-martins-1b223745/">
-    <img alt="Geovane LinkedIn" width="20px" src="<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">"Perfil no LinkedIn" />
+    <img alt="LinkedIn Logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_initials.png" />
   </a>
   <a href="https://www.youtube.com/channel/UC0_FEGcvDqsfNWHDI3S9GVA">
     <img alt="Geovane YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/748FAC" title="Canal no YouTube" />
