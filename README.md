@@ -52,9 +52,6 @@ Um  técnico em informática mergulhando no mundo da programação.<br />
   <a href="https://twitter.com/Geovane_joe?t=Yt1ZaxJqMLZk67adbtW9Hw&s=09">
     <img alt="Geovane Twitter" width="20px" src="https://simpleicons.vercel.app/x/000" title="Perfil no Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/geovane-de-deus-martins-1b223745/">
-    <img alt="LinkedIn Logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_initials.png" />
-  </a>
   <a href="https://www.youtube.com/channel/UC0_FEGcvDqsfNWHDI3S9GVA">
     <img alt="Geovane YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/748FAC" title="Canal no YouTube" />
   </a>
