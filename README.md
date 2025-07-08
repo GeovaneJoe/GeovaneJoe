@@ -1,8 +1,7 @@
 <h1 align="center">Olá, eu sou Geovane Martins, mais conhecido como Joe 👋 </h1>
 
 <img align="right" src="https://github.com/GeovaneJoe/GeovaneJoe/blob/main/.github/workflows/giphy%20(1).gif" width="250"/>
-align="center"
-Mamífero noturno.<br />
+<center>Mamífero noturno.<br />
 Capaz de conversar com objetos inanimados e aprendendo a converter café em código.<br />
 Um  técnico em informática mergulhando no mundo da programação.<br />
 
