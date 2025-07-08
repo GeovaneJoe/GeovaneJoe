@@ -1,6 +1,4 @@
-<br>
-<br>
-<img align="right" src="https://github.com/GeovaneJoe/GeovaneJoe/blob/main/.github/workflows/giphy%20(1).gif" width="250"/>
+<<br> img align="right" src="https://github.com/GeovaneJoe/GeovaneJoe/blob/main/.github/workflows/giphy%20(1).gif" width="250"/>
 
 <h1 align="center">Olá, eu sou Geovane Martins, mais conhecido como Joe 👋 </h1>
 Mamífero noturno.<br />
